@@ -1,4 +1,4 @@
-import profileImg from "../assets/hero.png";
+const profileImg = "/Profile.jpg";
 
 export default function Hero() {
   return (
